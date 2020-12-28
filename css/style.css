@@ -3,12 +3,15 @@ body {
 }
 
 .navbar {
-    background-color: beige;
+    background-color: #f5f5dc;
 }
 
+.details {
+   margin-left: 20%;
+}
 .quem-somos {
-    background-color: #8181F7;
     color: #ffffff;
+    background-color: #000000;
 }
 
 .margin {
@@ -16,6 +19,9 @@ body {
     padding-top: 10px;
 }
 
-.parceiros {
-    background-color: #58FAFA;
+
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
